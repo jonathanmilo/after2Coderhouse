@@ -57,4 +57,4 @@ if( numeroCelular==0 || numeroCelular ==""){alert("ingrese un num de celular val
  console.info("el sitio está funcionando")
  console.warn("el usario está mal registrado")
  console.table(producto)
- console.log(producto)
+ 
